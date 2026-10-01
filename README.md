@@ -5,9 +5,9 @@
 </picture>
 </p>
 
-I'm EveGoodEvening. I tune AI coding agents, write small libraries, make browser games about strange nights in old neighbourhoods, and explain AI with pictures.
+I'm EveGoodEvening. I tune AI coding agents and build plugins for them, write small libraries, make browser games about strange nights in old neighbourhoods, and explain AI with pictures.
 
-## AI coding agent setup
+## AI coding agents
 
 <!-- One tbody per row keeps GitHub from striping the second row. -->
 <table>
@@ -32,6 +32,20 @@ I'm EveGoodEvening. I tune AI coding agents, write small libraries, make browser
       <td width="50%" valign="top">
         <a href="https://github.com/EveGoodEvening/skill-optimizer"><b>skill-optimizer</b></a><br>
         A skill that audits agent skill docs for progressive disclosure, duplication, and token bloat.
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://github.com/EveGoodEvening/dsh-autoresearch"><b>dsh-autoresearch</b></a><br>
+        A <a href="https://github.com/deepseek-ai/deepseek-harness">DeepSeek Harness</a> plugin for bounded, metric-driven optimization, inspired by Karpathy's autoresearch — an agent edits files in an isolated Git worktree, and only changes that strictly improve a host-run evaluator's score are kept.<br>
+        <a href="https://www.npmjs.com/package/dsh-autoresearch"><code>dsh-autoresearch</code></a> on npm
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://github.com/EveGoodEvening/dsh-llmwiki"><b>dsh-llmwiki</b></a><br>
+        A <a href="https://github.com/deepseek-ai/deepseek-harness">DeepSeek Harness</a> plugin for a local-first Markdown wiki, inspired by Karpathy's LLM Wiki — hash-pinned sources, pages that cite them, lexical search, and model-free lint.<br>
+        <a href="https://www.npmjs.com/package/@evegoodevening/dsh-llmwiki"><code>@evegoodevening/dsh-llmwiki</code></a> on npm
       </td>
     </tr>
   </tbody>
