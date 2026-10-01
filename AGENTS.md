@@ -1,4 +1,8 @@
 # Lessons
 
-- This repository is the GitHub profile README. List projects under topical headings in two-column Markdown tables, with the repository link in the project name and any live site linked in the intro.
+- This repository is the GitHub profile README. Keep projects under topical headings in two-column HTML tables, with the repository link in the project name and any live site linked from the card (cover image and a "Play online" / "Browse" link).
+- Layout: a `<picture>` hero (`assets/hero-dusk.svg` for light, `assets/hero-night.svg` for dark), then sections. The hero uses absolute `raw.githubusercontent.com/.../main/assets/...` URLs because GitHub's rewriting of relative `<source srcset>` paths isn't verified; raw serves SVG as `image/svg+xml` with inline styles allowed, so the CSS animation still runs. Projects with something to look at get a 960×540 cover in `assets/covers/`; the rest are text cells. GitHub stripes every second `<tr>`, so give each row of a text grid its own `<tbody>`.
+- `scripts/build_art.py` generates the hero SVGs and the hand-walker cover. It outlines display type from Google Fonts subsets (`css2?...&text=`), so it needs `pip install fonttools` and network access. Edit the script and rerun it rather than editing the SVGs.
+- GitHub sanitizes README HTML (no `style`, no CSS classes). Check the output with `POST https://api.github.com/markdown` (works unauthenticated) and preview it with `github-markdown-css` in light and dark before pushing; screenshots go through `heavy-gate`.
+- Game screenshots: camhead-man-modern has `docs/screenshots/`; camhead-man's screenshots only exist in its git history (commit `8a6febc`, reverted from that repo's README).
 - To resolve renamed GitHub projects, follow the old repository's GitHub API redirect and use the returned `html_url` and `homepage` for the profile links; verify the new GitHub Pages URL independently.
