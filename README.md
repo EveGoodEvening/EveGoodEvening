@@ -1,10 +1,3 @@
-<p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EveGoodEvening/EveGoodEvening/main/assets/hero-night.svg">
-  <img src="https://raw.githubusercontent.com/EveGoodEvening/EveGoodEvening/main/assets/hero-dusk.svg" width="100%" alt="Good evening. A neon sign reading 晚上好 hangs over an old neighbourhood as its windows light up one by one.">
-</picture>
-</p>
-
 I'm EveGoodEvening. I tune AI coding agents and build plugins for them, write small libraries, make urban-fantasy browser games, and explain AI with pictures.
 
 ## AI coding agents
