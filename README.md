@@ -1,4 +1,4 @@
-I'm EveGoodEvening. I tune AI coding agents and build plugins for them, write small libraries, make urban-fantasy browser games, and explain AI with pictures.
+I'm EveGoodEvening. I tune AI coding agents and build plugins for them, write small libraries, make 3D browser games, and explain AI with pictures.
 
 ## AI coding agents
 
@@ -86,7 +86,13 @@ I'm EveGoodEvening. I tune AI coding agents and build plugins for them, write sm
         A browser-based three.js parkour game adapted from my AI-written novel <a href="https://github.com/EveGoodEvening/hand-walker">《手行者》</a>: walk on your hands through a high school, five chapters in about 15 minutes.<br><br>
         <a href="https://evegoodevening.github.io/hand-walker-parkour/"><b>Play online</b></a>
       </td>
-      <td width="50%" valign="top"></td>
+      <td width="50%" valign="top">
+        <a href="https://evegoodevening.github.io/honey-i-want-fish/"><img src="assets/covers/honey-i-want-fish.jpg" width="100%" alt="A man in a dark jacket stands on the seabed beneath a megalodon many times his length, in murky blue-green water."></a>
+        <h3><a href="https://github.com/EveGoodEvening/honey-i-want-fish">honey-i-want-fish</a></h3>
+        <b>《老公，我想吃鱼了 · 深海·晚餐》</b><br>
+        A browser-based three.js underwater action game: a wife says she wants fish for dinner, so her husband dives into the East China Sea with a fish knife and fights a great white, two tiger sharks, and a 16-metre megalodon.<br><br>
+        <a href="https://evegoodevening.github.io/honey-i-want-fish/"><b>Play online</b></a>
+      </td>
     </tr>
   </tbody>
 </table>
