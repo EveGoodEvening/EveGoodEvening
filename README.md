@@ -29,7 +29,7 @@ I'm EveGoodEvening. I tune AI coding agents and build plugins for them, write sm
         <h3><a href="https://github.com/EveGoodEvening/camhead-man-modern">camhead-man-modern</a></h3>
         <b>《显影 · 望潮里志怪》</b><br>
         A browser-based small-planet urban-fantasy puzzle game where a camera-headed man uses photography to recover his face.<br><br>
-        <a href="https://evegoodevening.github.io/camhead-man-modern/"><b>Play online</b></a>
+        <a href="https://evegoodevening.github.io/camhead-man-modern/"><b>Play online</b></a><br><br>
       </td>
     </tr>
   </tbody>
@@ -47,7 +47,7 @@ I'm EveGoodEvening. I tune AI coding agents and build plugins for them, write sm
         <h3><a href="https://github.com/EveGoodEvening/honey-i-want-fish">honey-i-want-fish</a></h3>
         <b>《老公，我想吃鱼了 · 深海·晚餐》</b><br>
         A browser-based three.js underwater action game: a wife says she wants fish for dinner, so her husband dives into the East China Sea with a fish knife and fights a great white, two tiger sharks, and a 16-metre megalodon.<br><br>
-        <a href="https://evegoodevening.github.io/honey-i-want-fish/"><b>Play online</b></a>
+        <a href="https://evegoodevening.github.io/honey-i-want-fish/"><b>Play online</b></a><br><br>
       </td>
     </tr>
   </tbody>
@@ -68,7 +68,7 @@ I'm EveGoodEvening. I tune AI coding agents and build plugins for them, write sm
       <h3><a href="https://github.com/EveGoodEvening/hand-walker">hand-walker</a></h3>
       <b>《手行者》</b><br>
       An AI-written urban-fantasy novel (Chinese), now also a game: <a href="https://github.com/EveGoodEvening/hand-walker-parkour">hand-walker-parkour</a>.<br><br>
-      <a href="https://github.com/EveGoodEvening/hand-walker/blob/main/%E7%AC%AC%201%20%E7%AB%A0.md"><b>Read chapter 1</b></a>
+      <a href="https://github.com/EveGoodEvening/hand-walker/blob/main/%E7%AC%AC%201%20%E7%AB%A0.md"><b>Read chapter 1</b></a><br><br>
     </td>
   </tr>
 </table>
