@@ -64,7 +64,7 @@ I'm EveGoodEvening. I tune AI coding agents and build plugins for them, write sm
       <a href="https://evegoodevening.github.io/ai-eli5/"><b>Browse the guides</b></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/EveGoodEvening/hand-walker"><img src="assets/covers/hand-walker.svg" width="100%" alt="Cover of 手行者 by Kimi K2.7: the title on a school corridor wall, reflected upside down in a window at dusk."></a>
+      <a href="https://github.com/EveGoodEvening/hand-walker"><img src="assets/covers/hand-walker.svg" width="100%" alt="Cover of 手行者 by Kimi K2.7: palm prints on a dusk-lit school corridor floor, with an upside-down figure in the window."></a>
       <h3><a href="https://github.com/EveGoodEvening/hand-walker">hand-walker</a></h3>
       <b>《手行者》</b><br>
       An AI-written urban-fantasy novel (Chinese), now also a game: <a href="https://github.com/EveGoodEvening/hand-walker-parkour">hand-walker-parkour</a>.<br><br>
