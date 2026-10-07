@@ -51,6 +51,18 @@ I'm EveGoodEvening. I tune AI coding agents and build plugins for them, write sm
       </td>
     </tr>
   </tbody>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://evegoodevening.github.io/flower-arranging/"><img src="assets/covers/flower-arranging.jpg" width="100%" alt="Fleur Atelier desktop workspace with a flower catalog, a 3D bouquet in a white vase, stem adjustment controls, and inspiration presets."></a>
+        <h3><a href="https://github.com/EveGoodEvening/flower-arranging">flower-arranging</a></h3>
+        <b>拾花 · Fleur Atelier</b><br>
+        A browser-based 3D flower-arranging studio with procedural flowers and vases: compose bouquets, adjust each stem, and save or export your work.<br><br>
+        <a href="https://evegoodevening.github.io/flower-arranging/"><b>Open the studio</b></a>
+      </td>
+      <td width="50%"></td>
+    </tr>
+  </tbody>
 </table>
 
 ## Explainers & writing
