@@ -1,5 +1,29 @@
 I'm EveGoodEvening. I tune AI coding agents and build plugins for them, write small libraries, make 3D browser games, and explain AI with pictures.
 
+## Agent configs & plugins
+
+<!-- One tbody per row keeps GitHub from striping every second row. -->
+<table>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/EveGoodEvening/dsh-autoresearch"><b>dsh-autoresearch</b></a><br>
+        An unofficial <a href="https://github.com/deepseek-ai/deepseek-harness">DeepSeek Harness</a> plugin for bounded, metric-driven optimization, inspired by Karpathy's autoresearch — an agent edits files in an isolated Git worktree, and only changes that strictly improve a host-run evaluator's score are kept.<br>
+        To use: <a href="https://www.npmjs.com/package/dsh-autoresearch"><code>dsh-autoresearch</code></a> on npm.
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/EveGoodEvening/dsh-llmwiki"><b>dsh-llmwiki</b></a><br>
+        An unofficial <a href="https://github.com/deepseek-ai/deepseek-harness">DeepSeek Harness</a> plugin for a local-first Markdown wiki, inspired by Karpathy's LLM Wiki — hash-pinned sources, pages that cite them, lexical search, and model-free lint.<br>
+        To use: <a href="https://www.npmjs.com/package/@evegoodevening/dsh-llmwiki"><code>@evegoodevening/dsh-llmwiki</code></a> on npm.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## Libraries
 
 <table>
@@ -7,7 +31,7 @@ I'm EveGoodEvening. I tune AI coding agents and build plugins for them, write sm
     <td valign="top">
       <a href="https://github.com/EveGoodEvening/v-ai-go-sdk"><b>v-ai-go-sdk</b></a><br>
       Experimental unofficial Go client for Vercel AI Gateway — Responses, Chat Completions (with streaming), and Evaluation APIs.<br>
-      <code>go get github.com/EveGoodEvening/v-ai-go-sdk</code>
+      To use: <code>go get github.com/EveGoodEvening/v-ai-go-sdk</code>
     </td>
   </tr>
 </table>
