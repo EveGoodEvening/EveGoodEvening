@@ -22,6 +22,15 @@ I'm EveGoodEvening. I tune AI coding agents and build plugins for them, write sm
       </td>
     </tr>
   </tbody>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/EveGoodEvening/dsh-shake"><b>dsh-shake</b></a><br>
+        An unofficial <a href="https://github.com/deepseek-ai/deepseek-harness">DeepSeek Harness</a> plugin for manual context cleanup — replaces old tool output and large code or XML blocks with short placeholders, while keeping the original text retrievable through <code>shake_read</code>.<br>
+        To use: <a href="https://www.npmjs.com/package/dsh-shake"><code>dsh-shake</code></a> on npm.
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ## Libraries
