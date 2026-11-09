@@ -7,6 +7,15 @@ I'm EveGoodEvening. I tune AI coding agents and build plugins for them, write sm
   <tbody>
     <tr>
       <td valign="top">
+        <a href="https://github.com/EveGoodEvening/auto-mode-gateway"><b>auto-mode-gateway</b></a><br>
+        A tool-use safety gateway between coding agents (Claude Code, Codex, WorkBuddy) and an untrusted model relay — it holds back executable tool calls in Anthropic Messages, OpenAI Responses and Chat Completions responses until local rules, a separately trusted decision model or a human approve them. Not a sandbox.<br>
+        To use: install from source (no npm release yet), then <code>auto-mode-proxy init</code> and <code>auto-mode-proxy serve</code>.
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td valign="top">
         <a href="https://github.com/EveGoodEvening/dsh-autoresearch"><b>dsh-autoresearch</b></a><br>
         An unofficial <a href="https://github.com/deepseek-ai/deepseek-harness">DeepSeek Harness</a> plugin for bounded, metric-driven optimization, inspired by Karpathy's autoresearch — an agent edits files in an isolated Git worktree, and only changes that strictly improve a host-run evaluator's score are kept.<br>
         To use: <a href="https://www.npmjs.com/package/dsh-autoresearch"><code>dsh-autoresearch</code></a> on npm.
