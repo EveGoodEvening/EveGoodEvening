@@ -8,8 +8,7 @@ I'm EveGoodEvening. I tune AI coding agents and build plugins for them, write sm
     <tr>
       <td valign="top">
         <a href="https://github.com/EveGoodEvening/auto-mode-gateway"><b>auto-mode-gateway</b></a><br>
-        A tool-use safety gateway between coding agents (Claude Code, Codex, WorkBuddy) and an untrusted model relay — it holds back executable tool calls in Anthropic Messages, OpenAI Responses and Chat Completions responses until local rules, a separately trusted decision model or a human approve them. Not a sandbox.<br>
-        To use: install from source (no npm release yet), then <code>auto-mode-proxy init</code> and <code>auto-mode-proxy serve</code>.
+        A tool-use safety gateway between coding agents (Claude Code, Codex, WorkBuddy) and an untrusted model relay — it holds back executable tool calls in Anthropic Messages, OpenAI Responses and Chat Completions responses until local rules, a separately trusted decision model or a human approve them. Not a sandbox.
       </td>
     </tr>
   </tbody>
@@ -17,8 +16,7 @@ I'm EveGoodEvening. I tune AI coding agents and build plugins for them, write sm
     <tr>
       <td valign="top">
         <a href="https://github.com/EveGoodEvening/job-farm-monitor"><b>job-farm-monitor</b></a><br>
-        A self-hosted dashboard that shows what every coding agent (Claude Code, Codex CLI, oh-my-pi) on each of your machines is doing — working, waiting for permission or an answer, done, or errored. Agents report through their own hooks; one codebase deploys to Cloudflare Workers, Railway or Vercel. English and Chinese, works on a phone.<br>
-        To use: deploy the server, then install the reporter on each machine (see the README).
+        A self-hosted dashboard that shows what every coding agent (Claude Code, Codex CLI, oh-my-pi) on each of your machines is doing — working, waiting for permission or an answer, done, or errored. Agents report through their own hooks; one codebase deploys to Cloudflare Workers, Railway or Vercel. English and Chinese, works on a phone.
       </td>
     </tr>
   </tbody>
@@ -26,8 +24,7 @@ I'm EveGoodEvening. I tune AI coding agents and build plugins for them, write sm
     <tr>
       <td valign="top">
         <a href="https://github.com/EveGoodEvening/cli-usage-api"><b>cli-usage-api</b></a><br>
-        A local terminal dashboard for AI subscription quotas and prepaid credit balances — Claude subscription and Platform, Codex, Grok and OpenAI Platform — with an optional token-protected HTTP API and a separate web frontend. Provider reads are read-only.<br>
-        To try: <code>uv sync --locked</code>, then <code>uv run usage --demo</code> (offline, fictional data).
+        A local terminal dashboard for AI subscription quotas and prepaid credit balances — Claude subscription and Platform, Codex, Grok and OpenAI Platform — with an optional token-protected HTTP API and a separate web frontend. Provider reads are read-only.
       </td>
     </tr>
   </tbody>

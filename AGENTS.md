@@ -15,3 +15,4 @@
 - `scripts/__pycache__/` is generated Python bytecode, not profile content; keep it ignored and out of Git history.
 - job-farm-monitor (default branch `main`) and cli-usage-api (default branch `master`) are text cards in "Agent configs & plugins", right after auto-mode-gateway; neither repo has screenshots for a cover.
 - A PreToolUse hook rejects commits whose message carries an AI co-author trailer; commit without it, and keep the commit command separate from edits that mention such trailers (the hook scans the whole command).
+- The first three "Agent configs & plugins" cards (auto-mode-gateway, job-farm-monitor, cli-usage-api) have no "To use" / "To try" line, at the owner's request; the DSH plugin cards keep their npm "To use" links.
