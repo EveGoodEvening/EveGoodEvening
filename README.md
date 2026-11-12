@@ -16,6 +16,24 @@ I'm EveGoodEvening. I tune AI coding agents and build plugins for them, write sm
   <tbody>
     <tr>
       <td valign="top">
+        <a href="https://github.com/EveGoodEvening/job-farm-monitor"><b>job-farm-monitor</b></a><br>
+        A self-hosted dashboard that shows what every coding agent (Claude Code, Codex CLI, oh-my-pi) on each of your machines is doing — working, waiting for permission or an answer, done, or errored. Agents report through their own hooks; one codebase deploys to Cloudflare Workers, Railway or Vercel. English and Chinese, works on a phone.<br>
+        To use: deploy the server, then install the reporter on each machine (see the README).
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/EveGoodEvening/cli-usage-api"><b>cli-usage-api</b></a><br>
+        A local terminal dashboard for AI subscription quotas and prepaid credit balances — Claude subscription and Platform, Codex, Grok and OpenAI Platform — with an optional token-protected HTTP API and a separate web frontend. Provider reads are read-only.<br>
+        To try: <code>uv sync --locked</code>, then <code>uv run usage --demo</code> (offline, fictional data).
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td valign="top">
         <a href="https://github.com/EveGoodEvening/dsh-autoresearch"><b>dsh-autoresearch</b></a><br>
         An unofficial <a href="https://github.com/deepseek-ai/deepseek-harness">DeepSeek Harness</a> plugin for bounded, metric-driven optimization, inspired by Karpathy's autoresearch — an agent edits files in an isolated Git worktree, and only changes that strictly improve a host-run evaluator's score are kept.<br>
         To use: <a href="https://www.npmjs.com/package/dsh-autoresearch"><code>dsh-autoresearch</code></a> on npm.
